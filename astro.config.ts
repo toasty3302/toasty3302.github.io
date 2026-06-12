@@ -11,7 +11,7 @@ import { externalLinks } from "./src/lib/external-links"
 import { headingNamespace } from "./src/lib/heading-namespace"
 
 export default defineConfig({
-  site: "https://astro-erudite.vercel.app",
+  site: "https://toasty3302.github.io",
   prefetch: { prefetchAll: true },
   integrations: [
     sitemap({
