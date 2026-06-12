@@ -7,3 +7,4 @@ authors:
 tags:
   - xd
 ---
+This will be a fun post. But I'm still waiting on some check marks. Will update soon. :3
